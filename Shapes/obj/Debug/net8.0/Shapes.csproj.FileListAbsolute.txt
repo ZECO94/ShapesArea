@@ -1,0 +1,14 @@
+E:\C# MaterClass&HackerRank\Projects\Shapes\bin\Debug\net8.0\Shapes.exe
+E:\C# MaterClass&HackerRank\Projects\Shapes\bin\Debug\net8.0\Shapes.deps.json
+E:\C# MaterClass&HackerRank\Projects\Shapes\bin\Debug\net8.0\Shapes.runtimeconfig.json
+E:\C# MaterClass&HackerRank\Projects\Shapes\bin\Debug\net8.0\Shapes.dll
+E:\C# MaterClass&HackerRank\Projects\Shapes\bin\Debug\net8.0\Shapes.pdb
+E:\C# MaterClass&HackerRank\Projects\Shapes\obj\Debug\net8.0\Shapes.GeneratedMSBuildEditorConfig.editorconfig
+E:\C# MaterClass&HackerRank\Projects\Shapes\obj\Debug\net8.0\Shapes.AssemblyInfoInputs.cache
+E:\C# MaterClass&HackerRank\Projects\Shapes\obj\Debug\net8.0\Shapes.AssemblyInfo.cs
+E:\C# MaterClass&HackerRank\Projects\Shapes\obj\Debug\net8.0\Shapes.csproj.CoreCompileInputs.cache
+E:\C# MaterClass&HackerRank\Projects\Shapes\obj\Debug\net8.0\Shapes.dll
+E:\C# MaterClass&HackerRank\Projects\Shapes\obj\Debug\net8.0\refint\Shapes.dll
+E:\C# MaterClass&HackerRank\Projects\Shapes\obj\Debug\net8.0\Shapes.pdb
+E:\C# MaterClass&HackerRank\Projects\Shapes\obj\Debug\net8.0\Shapes.genruntimeconfig.cache
+E:\C# MaterClass&HackerRank\Projects\Shapes\obj\Debug\net8.0\ref\Shapes.dll

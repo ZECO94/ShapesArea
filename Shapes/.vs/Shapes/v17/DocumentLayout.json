@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\C# MaterClass\u0026HackerRank\\Projects\\Shapes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ACEE7535-399B-4FB6-BA8D-D41BB7EF33E1}|Shapes.csproj|e:\\c# materclass\u0026hackerrank\\projects\\shapes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACEE7535-399B-4FB6-BA8D-D41BB7EF33E1}|Shapes.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACEE7535-399B-4FB6-BA8D-D41BB7EF33E1}|Shapes.csproj|e:\\c# materclass\u0026hackerrank\\projects\\shapes\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACEE7535-399B-4FB6-BA8D-D41BB7EF33E1}|Shapes.csproj|solutionrelative:circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACEE7535-399B-4FB6-BA8D-D41BB7EF33E1}|Shapes.csproj|e:\\c# materclass\u0026hackerrank\\projects\\shapes\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACEE7535-399B-4FB6-BA8D-D41BB7EF33E1}|Shapes.csproj|solutionrelative:rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACEE7535-399B-4FB6-BA8D-D41BB7EF33E1}|Shapes.csproj|e:\\c# materclass\u0026hackerrank\\projects\\shapes\\ishape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACEE7535-399B-4FB6-BA8D-D41BB7EF33E1}|Shapes.csproj|solutionrelative:ishape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACEE7535-399B-4FB6-BA8D-D41BB7EF33E1}|Shapes.csproj|e:\\c# materclass\u0026hackerrank\\projects\\shapes\\exercise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACEE7535-399B-4FB6-BA8D-D41BB7EF33E1}|Shapes.csproj|solutionrelative:exercise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Exercise.cs",
+              "DocumentMoniker": "E:\\C# MaterClass\u0026HackerRank\\Projects\\Shapes\\Exercise.cs",
+              "RelativeDocumentMoniker": "Exercise.cs",
+              "ToolTip": "E:\\C# MaterClass\u0026HackerRank\\Projects\\Shapes\\Exercise.cs",
+              "RelativeToolTip": "Exercise.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T14:40:30.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Rectangle.cs",
+              "DocumentMoniker": "E:\\C# MaterClass\u0026HackerRank\\Projects\\Shapes\\Rectangle.cs",
+              "RelativeDocumentMoniker": "Rectangle.cs",
+              "ToolTip": "E:\\C# MaterClass\u0026HackerRank\\Projects\\Shapes\\Rectangle.cs",
+              "RelativeToolTip": "Rectangle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T14:32:35.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "E:\\C# MaterClass\u0026HackerRank\\Projects\\Shapes\\Circle.cs",
+              "RelativeDocumentMoniker": "Circle.cs",
+              "ToolTip": "E:\\C# MaterClass\u0026HackerRank\\Projects\\Shapes\\Circle.cs*",
+              "RelativeToolTip": "Circle.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T14:32:18.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IShape.cs",
+              "DocumentMoniker": "E:\\C# MaterClass\u0026HackerRank\\Projects\\Shapes\\IShape.cs",
+              "RelativeDocumentMoniker": "IShape.cs",
+              "ToolTip": "E:\\C# MaterClass\u0026HackerRank\\Projects\\Shapes\\IShape.cs",
+              "RelativeToolTip": "IShape.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T14:31:57.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\C# MaterClass\u0026HackerRank\\Projects\\Shapes\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\C# MaterClass\u0026HackerRank\\Projects\\Shapes\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T14:31:21.617Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
