@@ -1,2 +1,2 @@
 # ShapesArea
-## This is an Small and Simple App using Interfaces and Polymorphism
+## This is a Small and Simple App using Interfaces and Polymorphism
